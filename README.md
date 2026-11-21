@@ -1,4 +1,4 @@
-# Mikro-lemcilerLab
+# MikroIslemcilerLab
 Mikro İşlemciler dersinde labta Keil ile yazdığımız kodlar
 
 Bazı dosyalar birbirinin kopyası veya benzeri olabilir , dosya formatında kaçıncı lab kaçıncı uygulama şeklinde 2.1 şeklinde gösterilmektedir. 
